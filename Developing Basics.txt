@@ -1,3 +1,5 @@
 How to download a remote repo to local desktop (Gitbash):
-    Copy the repo link
-    open git bash and enter command git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+    https://help.github.com/en/articles/cloning-a-repository
+
+How to upload local project to GitHub(GitHub):
+    https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line
