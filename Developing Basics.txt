@@ -1,0 +1,3 @@
+How to download a remote repo to local desktop (Gitbash):
+    Copy the repo link
+    open git bash and enter command git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
